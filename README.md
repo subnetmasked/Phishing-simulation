@@ -1,16 +1,14 @@
-# UNDER CONSTRUCTION, DON'T JUDGE ME
-
 [![GitHub issues](https://img.shields.io/github/issues/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/issues)
 [![GitHub stars](https://img.shields.io/github/stars/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/network)
 [![GitHub license](https://img.shields.io/github/license/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/graphs/contributors)
 
-# Phishing Simulation Features
+# Phishing Simulation 
 
 A simple but effective phishing attack simulation solution.
 
-## Installation
+## Installation 
 
 ### Prerequisites
 
@@ -44,7 +42,7 @@ python3 app.py
 ```
 5. Open your browser and navigate to `http://localhost:5000`
 
-## Usage
+## Usage 
 1. Open the application in your browser.
 2. Enter a username and password in the login form.
 3. Click the `Login` button.
