@@ -2,7 +2,7 @@ from flask import Flask, request, redirect, render_template
 import csv
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
 @app.route('/')
 def index():
