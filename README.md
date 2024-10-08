@@ -5,7 +5,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/graphs/contributors)
 
 # Phishing Simulation 
-### image showcase
 ![Phishing Simulation](images/showcase.jpg)
 A simple but effective phishing attack simulation solution.
 
