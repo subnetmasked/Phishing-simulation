@@ -4,6 +4,9 @@
 [![GitHub license](https://img.shields.io/github/license/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/subnetmasked/Phishing-simulation)](https://github.com/subnetmasked/Phishing-simulation/graphs/contributors)
 
+## Disclaimer
+This project is intended for educational purposes only. Do not use this tool for any malicious activities. The authors are not responsible for any misuse of the provided code.
+
 # Phishing Simulation 
 ![Phishing Simulation](images/showcase.jpg)
 A simple but effective phishing attack simulation solution.
